@@ -16,8 +16,8 @@ $ python main.py
 ```
 
 ## Usage
-GET Request to `http://host:port/{user_id}`, redirect to avatar.
-If user's avatar is not set, redirect to default avatar.
-Also can be used with options: `http://host:port/{user_id}.{ext}?size={size}`
+GET Request to `http://host:port/{user_id}`, redirect to avatar.  
+If user's avatar is not set, redirect to default avatar.  
+Also can be used with options: `http://host:port/{user_id}.{ext}?size={size}`  
 
 If you lazy to host it: https://dap.donotsolve.me
