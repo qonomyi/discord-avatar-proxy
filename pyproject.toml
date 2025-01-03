@@ -1,0 +1,11 @@
+[project]
+name = "discord-avatar-proxy"
+version = "1.0.0"
+description = "Fetch discord avatar by user ID"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiohttp>=3.11.11",
+    "fastapi>=0.115.6",
+    "uvicorn>=0.34.0",
+]
